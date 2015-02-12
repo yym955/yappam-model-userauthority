@@ -1,5 +1,5 @@
 <?php
-namespace Yappam\Model; 
+namespace Yappam\Userauthority\Model; 
 use Think\Model;
 class DealerModel   { 
 	
